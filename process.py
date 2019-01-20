@@ -88,17 +88,21 @@ def makeTree(search):
     # if in dict, call makeTree on all courses in reqArr and concatenate function calls and return them
     if search in treeDict:
         reqArr = treeDict[search]
+        #print(reqArr)
         textArray = []
-        for req in reqArr:
-            return makeTree(req)
-            #print(result)
-
-            #textArray.append[result]
-
+        textArray.append('{"name": "' + search + '", "children": [')
+        for i in range(len(reqArr)):
+            text = makeTree(reqArr[i])
+            textArray.append(text)
+            if i == len(reqArr)-1:
+                textArray.append("}]},")
+            else:
+                textArray.append("},")
+        return "".join(textArray)
 
     # if not, return base string
     else:
-        return '{"name": ' + search + ', "children":'
+        return '{"name": "' + search + '"'
 
 
     # open file to write to
@@ -114,7 +118,7 @@ def main():
     populateCourses(courseArr)
 
     makeTreeDict()
-    print(makeTree("ECE212"))
+    print(makeTree("ECE360"))
 
     # for key, courseInstance in treeDict.items():
     #     print(key)
