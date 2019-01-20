@@ -1,0 +1,702 @@
+[
+  {
+    "title": "ECE201 - Introduction to Electrical and Computer Engineering",
+    "descr": "Topics of interest to second year Electrical and Computer Engineering students, with special reference to industries in Alberta, including coverage of elements of ethics, equity, concepts of sustainable development and environmental stewardship, public and worker safety and health considerations including the context of the Alberta Occupational Health and Safety Act. Offered in a single day during the first week of September. Restricted to students registered in the Department of Electrical and Computer Engineering.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=201"
+  },
+  {
+    "title": "ECE202 - Electrical Circuits I",
+    "descr": "Circuit element definitions. Circuit laws: Ohm's, KVL, KCL. Resistive voltage and current dividers. Basic loop and nodal analysis. Dependent sources. Circuit theorems: linearity, superposition, maximum power transfer, Thevenin, Norton. Time domain behavior of inductance and capacitance, energy storage. Sinusoidal signals, complex numbers, phasor and impedance concepts. Magnetically coupled networks. Single phase power and power factor. Prerequisites: MATH 101, 102. Credit may be obtained in only one of ECE 202 or E E 240.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=202"
+  },
+  {
+    "title": "ECE203 - Electrical Circuits II",
+    "descr": "Nonlinear circuit analysis. Diodes: ideal and simple and models, single phase rectifiers. Ideal and finite gain op-amps. Treatment of RLC circuits in the time domain, frequency domain and s-plane. Two port networks. Prerequisites: ECE 202 or E E 240. Corequisite: ECE 240 or E E 238. Credit may be obtained in only one of ECE 203 or E E 250.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=203"
+  },
+  {
+    "title": "ECE209 - Fundamentals of Electrical Engineering",
+    "descr": "Physical concepts of passive circuit elements, Kirchhoff's laws and DC circuit equations. Energy concepts, time domain analysis of AC circuits. Impedance, complex numbers and phasor algebra. AC power concepts, resonance, three phase circuits, introduction to machines. Credit may be obtained in only one of ECE 209, E E 239, ECE 202, or E E 240, unless approved by the Department.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=209"
+  },
+  {
+    "title": "ECE209A - Fundamentals of Electrical Engineering",
+    "descr": "Physical concepts of passive circuit elements, Kirchhoff's laws and DC circuit equations. Energy concepts, time domain analysis of AC circuits. Impedance, complex numbers and phasor algebra. AC power concepts, resonance, three phase circuits, introduction to machines. Credit may be obtained in only one of ECE 209 or E E 239.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=209A"
+  },
+  {
+    "title": "ECE209B - Fundamentals of Electrical Engineering",
+    "descr": "Physical concepts of passive circuit elements, Kirchhoff's laws and DC circuit equations. Energy concepts, time domain analysis of AC circuits. Impedance, complex numbers and phasor algebra. AC power concepts, resonance, three phase circuits, introduction to machines. Credit may be obtained in only one of ECE 209 or E E 239.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=209B"
+  },
+  {
+    "title": "ECE210 - Introduction to Digital Logic Design",
+    "descr": "Boolean algebra, truth tables, Karnaugh maps. Switching devices and their symbology with an introduction to NAND and NOR logic. Number systems, codes, minimization procedures, synthesis of combinational networks. Synchronous sequential circuits, flip-flops, counters. Arithmetic circuits. Introduction to computer-aided design and simulation tools for digital design and implementation. Requires payment of additional student instructional support fees. Refer to the Fees Payment Guide in the University Regulations and Information for Students section of the Calendar. Credit may be obtained in only one of ECE 210, E E 280 or CMPUT 329.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=210"
+  },
+  {
+    "title": "ECE212 - Introduction to Microprocessors",
+    "descr": "Microcomputer architecture, assembly language programming, sub-routine handling, memory and input/output system and interrupt concepts. Prerequisite: ECE 210 or E E 280 or CMPUT 329. Credit may be obtained in only one of ECE 212, E E 380 or CMPUT 229.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=212"
+  },
+  {
+    "title": "ECE220 - Programming for Electrical Engineering",
+    "descr": "Architecture and basic components of computing systems. Programming environment and program development methodology. Basics of programming: from data structures and functions to communication with external devices. Principles of object-oriented programming. Good programming style. Prerequisite: ENCMP 100.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=220"
+  },
+  {
+    "title": "ECE240 - Continuous Time Signals and Systems",
+    "descr": "Introduction to linear systems and signal classification. Delta function and convolution. Fourier series expansion. Fourier transform and its properties. Laplace transform. Analysis of linear time invariant (LTI) systems using the Laplace transform. Prerequisites: ECE 202 or E E 240, MATH 201. Credit may be obtained in only one of ECE 240 or E E 238.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=240"
+  },
+  {
+    "title": "ECE302 - Electronic Devices",
+    "descr": "PN junction semiconductor basics, charge flow and diode equation. Zener diodes. BJT and MOSFET devices and operating regions. Amplifier basics: biasing, gain, input and output resistance, analysis and design. Large signal effects. Requires payment of additional student instructional support fees. Refer to the Fees Payment Guide in the University Regulations and Information for Students section of the Calendar. Prerequisite: ECE 203 or E E 250. Credit may be obtained in only one of ECE 302 or E E 340.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=302"
+  },
+  {
+    "title": "ECE303 - Analog Electronics",
+    "descr": "Differential amplifiers. Frequency response: active device high-frequency behaviour and circuit models; amplifier circuits and design. Feedback: concepts and structure; feedback topologies and amplifiers; open- and closed-loop response. Operational amplifiers: behaviour, circuit analysis and design. Requires payment of additional student instructional support fees. Refer to the Fees Payment Guide in the University Regulations and Information for Students section of the Calendar. Prerequisite: ECE 302 or E E 340. Credit may be obtained in only one of ECE 303 or E E 350.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=303"
+  },
+  {
+    "title": "ECE303A - Analog Electronics",
+    "descr": "Differential amplifiers. Frequency response: active device high-frequency behaviour and circuit models; amplifier circuits and design. Feedback: concepts and structure; feedback topologies and amplifiers; open- and closed-loop response. Operational amplifiers: behaviour, circuit analysis and design. Requires payment of additional student instructional support fees. Refer to the Fees Payment Guide in the University Regulations and Information for Students section of the Calendar. Prerequisite: ECE 302 or E E 340. Credit may be obtained in only one of ECE 303 or E E 350.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=303A"
+  },
+  {
+    "title": "ECE303B - Analog Electronics",
+    "descr": "Differential amplifiers. Frequency response: active device high-frequency behaviour and circuit models; amplifier circuits and design. Feedback: concepts and structure; feedback topologies and amplifiers; open- and closed-loop response. Operational amplifiers: behaviour, circuit analysis and design. Requires payment of additional student instructional support fees. Refer to the Fees Payment Guide in the University Regulations and Information for Students section of the Calendar. Prerequisite: ECE 302 or E E 340. Credit may be obtained in only one of ECE 303 or E E 350.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=303B"
+  },
+  {
+    "title": "ECE304 - Digital Electronics",
+    "descr": "MOS digital circuits, logic gates, threshold voltages. MOS logic families: design and simulation. CMOS timing: propagation delay, rise and fall times. Storage elements, memory, I/O and interfacing. Prerequisites: ECE 210 or E E 280 or CMPUT 329, and ECE 302 or E E 340. Credit may be obtained in only one of ECE 304 or E E 351.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=304"
+  },
+  {
+    "title": "ECE311 - Computer Organization and Architecture",
+    "descr": "Survey of modern computer architecture and design concepts. Benchmarks, instruction set design and encoding. Pipelined and superscalar processors. Techniques for exposing and exploiting instruction-level parallelism. Performance of cache and virtual memory hierarchies. Input/output subsystem design. Prerequisite: ECE 212 or E E 380 or CMPUT 229. Credit may be obtained in only one of ECE 311, CMPE 382 or CMPUT 429.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=311"
+  },
+  {
+    "title": "ECE312 - Embedded System Design",
+    "descr": "Design methodology. Internal and external peripherals: serial communication, timers, D/A converters, interrupt controllers. Embedded system programming: introduction to real time operating systems, basics of real time programming, real-time debugging. Power and memory management. Faulttolerance. Prerequisites: ECE 210, and ECE 212 or E E 380 or consent of the Department.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=312"
+  },
+  {
+    "title": "ECE315 - Computer Interfacing",
+    "descr": "Design and use of digital interfaces, including memory, serial, parallel, synchronous and asynchronous interfaces. Hardware implementations of interrupts, buses, input/output devices and direct memory access. Multitasking software architecture, real-time preemptive multitasking kernels. Data structures and mechanisms for flow control. Computer communications interfaces, interfacing of microcontroller to peripheral devices such as stepper motors. Requires payment of additional student instructional support fees. Refer to the Fees Payment Guide in the University Regulations and Information for Students section of the Calendar. Prerequisite: ECE 212 or E E 380 or CMPUT 229, and 275 or permission of the Instructor. Credit may be obtained in only one of CMPE 401 or ECE 315.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=315"
+  },
+  {
+    "title": "ECE321 - Software Requirements Engineering",
+    "descr": "Software quality attributes. Software requirements. Requirements elicitation via interviewing, workshops, prototyping, and use case analysis. Vision document and Software Requirement Specification document standards. Formal software specification methods including operational and descriptive models. Design by contract. Verification and validation of requirements. Prerequisite: ECE 320 or CMPE 300. Credit may be obtained in only one of CMPE 310 or ECE 321.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=321"
+  },
+  {
+    "title": "ECE322 - Software Testing and Maintenance Engineering",
+    "descr": "From software requirements specification to software testing. Risk analysis and metrics for software testing. Software testing process, including test planning, design, implementation, execution, and evaluation. Test design via white box and black box approaches; coverage-based testing techniques. Unit, integration, and system testing. Acceptance tests. Software maintenance and regression testing. Prerequisite: ECE 320 or CMPE 300. Credit may be obtained in only one of CMPE 320 or ECE 322.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=322"
+  },
+  {
+    "title": "ECE325 - Object-Oriented Software Design",
+    "descr": "Software engineering principles of object-oriented design: basic data structures, classes and objects, creation tactics, inheritance, composition, polymorphism, interfaces, compilation and execution. Programming Objectives: introduction to advanced data structures, inner classes, and reflection. Exception handling and unit testing. Prerequisite: CMPUT 275.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=325"
+  },
+  {
+    "title": "ECE330 - Introduction to Power Engineering",
+    "descr": "Overview of power concepts, network equations, three-phase circuits, transformer and its characteristics, per-unit calculation, transmission lines and their basic operational characteristics, introduction to power system operation. Prerequisite: ECE 203 or E E 250. Credit may be obtained in only one of ECE 330 or E E 330.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=330"
+  },
+  {
+    "title": "ECE332 - Electric Machines",
+    "descr": "Principles of electromagnetic force and torque in rotating machinery. Simple AC and DC machines. Induction motor theory. Practical aspects of induction motor use: characteristics, standards, starting, variable speed operation. Synchronous machine theory and characteristics. Fractional HP motor theory. Safety in electrical environments. Prerequisite: ECE 330 or E E 330 or consent of Department. Credit may be obtained in only one of ECE 332 or E E 332.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=332"
+  },
+  {
+    "title": "ECE340 - Discrete Time Signals and Systems",
+    "descr": "Discrete time signals and systems; Sampled signals and sampling theorem, aliasing, A/D converter; Z-transform, stability analysis; Discrete-time Fourier transform; Discrete Fourier transform, leakage, spectral analysis; Digital filter design, filter structure. Prerequisite: ECE 240 or E E 238. Credit may be obtained in only one of ECE 340 or E E 338.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=340"
+  },
+  {
+    "title": "ECE341 - Analytical Methods in Electrical Engineering",
+    "descr": "Introduction to analytical solutions of partial differential equations, eigenfunctions and eigenvalue problems, special functions in cylindrical and spherical coordinates, Green's functions, and transform methods. These concepts provide the necessary mathematical foundation for understanding and analyzing important physical phenomena encountered at the micro and nanoscales. Examples drawn from electromagnetics, quantum mechanics, solidstate physics, photonics, thermal transport, and microelectromechanical systems. Prerequisites: ECE 240 or E E 238, and MATH 309 or 311. Credit may be obtained in only one of ECE 341 or E E 323.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=341"
+  },
+  {
+    "title": "ECE342 - Probability for Electrical and Computer Engineers",
+    "descr": "Deterministic and probabilistic models. Basics of probability theory: random experiments, axioms of probability, conditional probability and independence. Discrete and continuous random variables: cumulative distribution and probability density functions, functions of a random variable, expected values, transform methods. Pairs of random variables: independence, joint cdf and pdf, conditional probability and expectation, functions of a pair of random variables, jointly Gaussian random variables. Sums of random variables: the central limit theorem; basic types of random processes, wide sense stationary processes, autocorrelation and crosscorrelation, power spectrum, white noise. Prerequisite: MATH 209. Credit may be obtained in only one of ECE 342 or E E 387.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=342"
+  },
+  {
+    "title": "ECE342A - Probability for Electrical and Computer Engineers",
+    "descr": "Deterministic and probabilistic models. Basics of probability theory: random experiments, axioms of probability, conditional probability and independence. Discrete and continuous random variables: cumulative distribution and probability density functions, functions of a random variable, expected values, transform methods. Pairs of random variables: independence, joint cdf and pdf, conditional probability and expectation, functions of a pair of random variables, jointly Gaussian random variables. Sums of random variables: the central limit theorem; basic types of random processes, wide sense stationary processes, autocorrelation and crosscorrelation, power spectrum, white noise. Prerequisite: MATH 209. Credit may be obtained in only one of ECE 342 or E E 387.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=342A"
+  },
+  {
+    "title": "ECE342B - Probability for Electrical and Computer Engineers",
+    "descr": "Deterministic and probabilistic models. Basics of probability theory: random experiments, axioms of probability, conditional probability and independence. Discrete and continuous random variables: cumulative distribution and probability density functions, functions of a random variable, expected values, transform methods. Pairs of random variables: independence, joint cdf and pdf, conditional probability and expectation, functions of a pair of random variables, jointly Gaussian random variables. Sums of random variables: the central limit theorem; basic types of random processes, wide sense stationary processes, autocorrelation and crosscorrelation, power spectrum, white noise. Prerequisite: MATH 209. Credit may be obtained in only one of ECE 342 or E E 387.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=342B"
+  },
+  {
+    "title": "ECE360 - Control Systems I",
+    "descr": "Linear system models. Time response and stability. Block diagrams and signal flow graphs. Feedback control system characteristics. Dynamic compensation. Root locus analysis and design. Frequency response analysis and design. Prerequisites: ECE 203 or E E 250, and ECE 240 or E E 238. Credit may be obtained in only one of ECE 360, ECE 362, E E 357, E E 462 or E E 469.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=360"
+  },
+  {
+    "title": "ECE370 - Engineering Electromagnetics I",
+    "descr": "Review of vector calculus, electrostatics, and magnetostatics. Electric and magnetic fields in material media, including polarization mechanisms and general boundary conditions. Solutions to static field problems. Maxwell's equations and waves in free space, dielectrics and conducting media. Reflection and refraction, standing waves. Prerequisites: MATH 102, 209 and PHYS 230. Credit may be obtained in only one of ECE 370 or E E 315.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=370"
+  },
+  {
+    "title": "ECE380 - Introduction to Communication Systems",
+    "descr": "Basics of analog communication: amplitude, angle, and analog pulse modulation; modulators and demodulators; frequency multiplexing. Basics of digital communication: sampling, quantization, pulse code modulation, time division multiplexing, binary signal formats. Prerequisite: ECE 240 or E E 238. Credit may be obtained in only one of ECE 380 or E E 390.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=380"
+  },
+  {
+    "title": "ECE380A - Introduction to Communication Systems",
+    "descr": "Basics of analog communication: amplitude, angle, and analog pulse modulation; modulators and demodulators; frequency multiplexing. Basics of digital communication: sampling, quantization, pulse code modulation, time division multiplexing, binary signal formats. Prerequisite: ECE 240 or E E 238. Credit may be obtained in only one of ECE 380 or E E 390.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=380A"
+  },
+  {
+    "title": "ECE380B - Introduction to Communication Systems",
+    "descr": "Basics of analog communication: amplitude, angle, and analog pulse modulation; modulators and demodulators; frequency multiplexing. Basics of digital communication: sampling, quantization, pulse code modulation, time division multiplexing, binary signal formats. Prerequisite: ECE 240 or E E 238. Credit may be obtained in only one of ECE 380 or E E 390.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=380B"
+  },
+  {
+    "title": "ECE401 - Power Electronics",
+    "descr": "Introduction to power electronics. AC-DC conversion. DC-AC conversion. DC-DC conversion. AC-AC conversion. Prerequisite: ECE 302 or E E 340. Credit may be obtained in only one of ECE 401 or E E 431.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=401"
+  },
+  {
+    "title": "ECE402 - RF Communication Circuits",
+    "descr": "Introduction to radio communications systems. Frequency selective circuits and transformers. Parallel resonant circuits including transformers. Double-tuned circuits. Impedance matching. Oscillators. Conditions for oscillation. Amplitude limitation mechanisms. Phase stability. Crystal oscillators. Mixers. Diode-ring mixers. Square-law mixers. BJT mixers. Intermodulation distortion. Modulators and demodulators. Average envelope detectors. FM demodulators. High frequency amplifiers and automatic gain control. Broadband techniques. Neutralization. Phase-lock loops. Phase detectors. Voltage-controlled oscillators. Loop filters. Phase-locked loop applications. Power amplifiers. Prerequisite: ECE 303 or E E 350. Corequisite: ECE 360 or ECE 362 or E E 357 or E E 462. Credit may be obtained in only one of ECE 402 or E E 451.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=402"
+  },
+  {
+    "title": "ECE403 - Integrated Circuit Design",
+    "descr": "Very Large Scale Integration (VLSI) design techniques and their application. Electrical characteristics of MOSFET devices and CMOS circuits. Use of CAD tools for simulation and integrated circuit layout. Modeling delays, advanced digital logic circuit techniques, memory. Prerequisite: ECE 304 or E E 351; corequisite: ECE 410 or CMPE 480. Credit may be obtained in only one of ECE 403 or E E 453.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=403"
+  },
+  {
+    "title": "ECE405 - Biophysical Measurement and Instrumentation",
+    "descr": "Introduction to the principles of biophysical instrumentation. Various sensors are examined including strain gages, inductive, capacitive, thermal, and piezoelectric sensors. Methods of measuring blood pressure are discussed. Origin of biopotentials; membrane and action potentials. Measurement of bioelectrical signals such as the ECG and EMG. Electrical safety, noise, impedance matching, and analog-to-digital conversion. Applications of electrodes, biochemical sensors, and lasers. Prerequisite: ECE 203 or E E 250 or consent of the Instructor. Credit may be obtained in only one of ECE 405 or EE BE 512.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=405"
+  },
+  {
+    "title": "ECE406 - Special Topics in Computer Engineering",
+    "descr": "This course is intended to enable individuals or a small group of students to study topics in their particular field of interest under the supervision of a member of the Department of Electrical and Computer Engineering or the Department of Computing Science or other appropriate departments.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=406"
+  },
+  {
+    "title": "ECE407 - Special Topics in Computer Engineering",
+    "descr": "This course is intended to enable individuals or a small group of students to study topics in their particular field of interest under the supervision of a member of the Department of Electrical and Computer Engineering or the Department of Computing Science or other appropriate departments.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=407"
+  },
+  {
+    "title": "ECE408 - Special Topics in Electrical Engineering",
+    "descr": "Intended to enable individuals or a small group of students to study topics in their particular field of interest under the supervision of a member of the Department of Electrical and Computer Engineering or other appropriate departments.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=408"
+  },
+  {
+    "title": "ECE409 - Special Topics in Electrical Engineering",
+    "descr": "Intended to enable individuals or a small group of students to study topics in their particular field of interest under the supervision of a member of the Department of Electrical and Computer Engineering or other appropriate departments.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=409"
+  },
+  {
+    "title": "ECE410 - Advanced Digital Logic Design",
+    "descr": "Review of classical logic design methods. Introduction to the hardware description language VHDL. Logic simulation principles. Digital system design. Digital system testing and design for testability. Arithmetic circuits. State-of-the-art computer-aided design tools and FPGAs are used to design and implement logic circuits. Corequisite: ECE 304 or E E 351. Credit may be obtained in only one of CMPE 480 or ECE 410.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=410"
+  },
+  {
+    "title": "ECE412 - Fault-Tolerant Computing",
+    "descr": "Defects in manufacturing, failure mechanisms, and fault modeling. Reliability and availability theory. Static and dynamic redundancy and repair. Error correcting codes and self-checking systems. Roll-back strategies. Fault-tolerant computers and network architecture. Prerequisite: ECE 342. Credit may be obtained in only one of CMPE 425 or ECE 412.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=412"
+  },
+  {
+    "title": "ECE420 - Parallel and Distributed Programming",
+    "descr": "Overview of parallel/distributed computing including concepts and terminology. Principles of programming with shared memory and synchronization methods. Multithread programming with Pthreads and OpenMP. Message passing computing: the Message Passing Interface library. Design and performance of parallel algorithms. Prerequisites: CMPUT 275 and 379.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=420"
+  },
+  {
+    "title": "ECE421 - Exploring Software Development Domains",
+    "descr": "Advanced programming concepts. Programming language as a vehicle for discussion about programming concepts such as productivity, components and re-use, traditional vs. scripting approaches. Object oriented construction, systems programming, concurrent programming, Graphical User Interface (GUI) programming, distributed programming, and dynamic programming. Prerequisites: ECE 322 or CMPE 320, ECE 325, CMPUT 301 and CMPUT 379. Credit may be obtained in only one of CMPE 410 or ECE 421.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=421"
+  },
+  {
+    "title": "ECE422 - Reliable and Secure Systems Design",
+    "descr": "Causes and consequences of computer system failure. Structure of fault-tolerant computer systems. Methods for protecting software and data against computer failure. Quantification of system reliability. Introduction to formal methods for safety-critical systems. Computer and computer network security. Prerequisite: CMPUT 301. Credit may be obtained in only one of CMPE 420 or ECE 422.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=422"
+  },
+  {
+    "title": "ECE430 - Power System Analysis",
+    "descr": "Transmission line design parameters; power flow computations; Generator control systems, load frequency control; economic operation of power systems; Symmetrical components theory; Symmetrical and unsymmetrical fault analysis. Prerequisite: ECE 330 or E E 330. Corequisite: ECE 332 or E E 332. Credit may be obtained in only one of ECE 430 or E E 430.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=430"
+  },
+  {
+    "title": "ECE432 - Variable Speed Drives",
+    "descr": "Introduction to variable speed drives. Frequency, phase and vector control of induction motors. Dynamic models for induction motors. Permanent magnet synchronous and brushless dc motor drives. Prerequisite: ECE 332 or E E 332. Credit may be obtained in only one of ECE 432 or E E 432.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=432"
+  },
+  {
+    "title": "ECE433 - Power System Stability and Transients",
+    "descr": "Introduction to power system transient states. Power system voltage stability; PV and QV curve methods. Power system angular stability; transient stability and equal area criterion; steady-state stability and power system stabilizer. Electromagnetic transients in power systems, insulation coordination and equipment protection. Methods of power system design and simulation. Prerequisites: ECE 330 or E E 330, and ECE 332 or E E 332. Credit may be obtained in only one of ECE 433 or E E 433.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=433"
+  },
+  {
+    "title": "ECE434 - Power System Protection",
+    "descr": "Short-circuit and other faults in power systems. Analysis of faulted power systems, symmetrical components theory, components of power system protection, various protection schemes and relays. Power system grounding, concepts of transient overvoltage and ground potential rise. Prerequisite: ECE 330 or E E 330. Credit may be obtained in only one of ECE 434 or E E 434.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=434"
+  },
+  {
+    "title": "ECE440 - Digital Computer Processing of Images",
+    "descr": "Extension of sampling theory and the Fourier transform to two dimensions, pixel operations including gray-level modification, algebraic and geometric transformations. The design of spatial filters for noise reduction, image sharpening and edge enhancement, and some discussion of interpolation techniques. An introduction to the concepts of image restoration from known degradations and the reconstruction of images from parallel and fan projections. Prerequisite: ECE 340 or E E 338 or consent of Instructor. Credit may be obtained in only one of EE BE 540 or ECE 440.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=440"
+  },
+  {
+    "title": "ECE442 - Introduction to Multimedia Signal Processing",
+    "descr": "Human visual/audio perception and multimedia data representations. Multimedia enhancement, histogram equalization, noise removal, and edge detection. Image interpolation, digital zooming and error concealment. Fundamentals of compression, transforms, lossless and lossy compression. Multimedia compression, transform coding, and JPEG/MPEG image compression standards. Multimedia communications over networks. Multimedia security, digital rights management, watermarking, and IP protection. Prerequisite: ECE 340 or E E 338 or consent of Instructor. Credit may be obtained in only one of ECE 442 or E E 442.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=442"
+  },
+  {
+    "title": "ECE449 - Intelligent Systems Engineering",
+    "descr": "Intelligent systems for automatic control and data analysis. The concepts of vagueness and uncertainty, approximate reasoning, fuzzy rule-based systems and fuzzy control. Strategies for learning and adaptation, supervised and reinforcement learning, self-organization and the selection of neural network architectures. Discussion of the principles of search and optimization, evolution and natural selection and genetic algorithms. Introduction to hybrid intelligence. Applications of intelligent systems for pattern recognition, classification, forecasting, decision support, and control. Credit may be obtained in only one of CMPE 449 or ECE 449.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=449"
+  },
+  {
+    "title": "ECE450 - Nanoscale Phenomena in Electronic Devices",
+    "descr": "Semiconductor device physics, device scaling trends, advanced MOSFET fabrication and the associated quantum mechanical framework in nanoscale systems. Semiconductor devices as a system of elemental components. Quantum phenomena in the evaluation of semiconductor devices. Impact of new materials such as high-k gate dielectrics, copper damascene processing and diffusion barriers on device performance. Choice of channel materials and strain condition for ultrascaled logic devices, RF and power electronic devices. Prerequisite: ECE 302 or E E 340. Credit may be obtained in only one of ECE 450 or E E 450.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=450"
+  },
+  {
+    "title": "ECE452 - Computation for Nanoengineering",
+    "descr": "Introduction to advanced numerical methods such as finite-difference, finite-element and spectral-domain techniques for solving partial differential equations. Simulations of nanoscale systems involving multiphysics or coupled differential equations involving electron and thermal transport phenomena, electrodynamics, MEMS, and process simulation, graphical methods for 3D visualization of simulation data. Examples from applied areas of nanoengineering to demonstrate computational methods for understanding complex physical phenomena and for designing and simulating nanoscale devices and systems. Prerequisite: consent of the Department. Credit may be obtained in only one of ECE 452 or E E 445.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=452"
+  },
+  {
+    "title": "ECE455 - Engineering of Nanobiotechnological Systems",
+    "descr": "Microfluidic and nanobiotechnological devices. Fabrication techniques for devices: self-assembly, lithographic technologies. Applications of nanobiotechnology in computing, electronics, human health, environment and manufacture. Prerequisites: MATH 201 or PHYS 230. Credit may be obtained in only one of ECE 455 or E E 455.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=455"
+  },
+  {
+    "title": "ECE456 - Introduction to Nanoelectronics",
+    "descr": "Fundamental concepts related to current flow in nanoelectronic devices. Energy level diagram and the Fermi function. Single-energy-level model for current flow and associated effects, such as the quantum of conductance, Coulomb blockade, and single electron charging. The Schroedinger equation and quantum mechanics for applications in nanoelectronics. Matrix-equation approach for numerical band structure calculations of transistor channel materials. k-space, Brillouin zones, and density of states. Subbands for quantum wells, wires, dots, and carbon nanotubes. Current flow in nanowires and ballistic nanotransistors, including minimum possible channel resistance, quantum capacitance, and the transistor equivalent circuit under ballistic operation. Prerequisite: ECE 302 or E E 340. Credit may be obtained in only one of ECE 456 or E E 456.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=456"
+  },
+  {
+    "title": "ECE457 - Microfabrication and Devices",
+    "descr": "Microfabrication processes for CMOS, bipolar, MEMS, and microfluidics devices. Laboratory safety. Deposition processes of oxidation, evaporation and sputtering. Lithography, wet and dry etch, and device characterization. Note: Consent of Department required. Credit may be obtained in only one of ECE 457 or E E 457.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=457"
+  },
+  {
+    "title": "ECE458 - Introduction to Microelectromechanical Systems",
+    "descr": "Overview of microelectromechanical (MEMS) systems, applications of MEMS technology to radio frequency, optical and biomedical devices. Basic MEMS building blocks, cantilever and clamped-clamped beams. Actuation mechanisms of mechanical microdevices, thermal and electrostatic. The thin film fabrication process, deposition, lithography, etching and release. MEMS in circuits, switches, capacitors, and resonators. Prerequisites: ECE 370 or E E 315 or PHYS 381, and one of MAT E 201, PHYS 244, MEC E 250. Credit may be obtained in only one of ECE 458 or E E 458.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=458"
+  },
+  {
+    "title": "ECE460 - Control Systems II",
+    "descr": "Introduction to computer control, sample and hold, discrete-time systems. States and state space models. Linearization of nonlinear state-space models. Solving linear time-invariant state-space equations. Discretization of continuous-time systems. Controllability and observability, and their algebraic tests. Minimal state-space realizations. State feedback and eigenvalue/pole assignment, deadbeat control. Step tracking control design. State estimation and observer design. Observer based control. Introduction to linear quadratic optimal control. Prerequisites: ECE 360 or E E 357, and ECE 340. Credit may be obtained in only one of ECE 460 or E E 460.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=460"
+  },
+  {
+    "title": "ECE464 - Medical Robotics and Computer-Integrated Intervention",
+    "descr": "Basic concepts of computer-integrated intervention. Surgical CAD/CAM, assist and simulation systems. Actuators and imagers. Medical robot design, control and optimization. Surgeon-robot interface technology. Haptic feedback in surgical simulation and teleoperation. Virtual fixtures. Time delay compensation in telesurgery. Cooperative manipulation control. Overview of existing systems for robot-assisted intervention and for virtual-reality surgical simulation. Prerequisite: ECE 360 or ECE 462 or E E 357 or E E 462 or consent of the Department. Credit may be obtained in only one of ECE 464 or E E 464.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=464"
+  },
+  {
+    "title": "ECE471 - Photonics I",
+    "descr": "Electromagnetic wave propagation at optical frequencies and approximations. Thermal and luminescent light sources, optical beams. Ray and Gaussian optics and simple optical components. Wave optics, polarization, interference, interferometric devices. Light-matter interactions. Optics of crystals; polarizers and waveplates. Photodetectors. Photonic engineering applications. Prerequisite: ECE 370 or E E 315, or corequisite PHYS 381. Note: Only one of the following courses may be taken for credit: ECE 471, E E 471 or PHYS 362. Credit may be obtained in only one of ECE 471 or E E 471.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=471"
+  },
+  {
+    "title": "ECE472 - Photonics II",
+    "descr": "Interaction of radiation with atoms, laser oscillations and threshold conditions, 3- and 4-level laser systems, rate equations, special properties of laser light, cavity Q and photon lifetime, optical resonators and lens waveguides, Gaussian beams, gain saturation, Q-switching, mode locking, interaction of light and sound, holography. Description of various lasers: solid, gas, semiconductor, dye, Raman and chemical. Laser applications. Prerequisites: ECE 370 or E E 315 or PHYS 381 or consent of Instructor. Credit may be obtained in only one of ECE 472 or E E 472.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=472"
+  },
+  {
+    "title": "ECE474 - Introduction to Plasma Engineering",
+    "descr": "Definition of plasma. Behavior in electric and magnetic fields. Particle, kinetic and fluid description of flow and transport phenomena. Waves in plasmas. Current approaches to thermonuclear fusion. High temperature laser produced plasmas and low temperature DC and RF discharge plasmas. Applications in discharge pumping of lasers, plasma etching, thin film deposition and generation of x-rays. Prerequisites: ECE 370 or E E 315 or PHYS 381. Credit may be obtained in only one of ECE 474 or E E 474.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=474"
+  },
+  {
+    "title": "ECE475 - Optoelectronic and Photovoltaic Devices",
+    "descr": "Basic optical properties of crystalline and amorphous semiconductor materials: energy band diagrams, optical constants. Recombination and light emission in semiconductors. Light emitting diodes: spectral characteristics, materials, and applications. Stimulated emission and laser oscillation conditions in semiconductors. Laser diodes: modal and spectral properties, steady state rate equations, materials and structures. Light absorption, optical to electrical energy conversion. Photovoltaic cells: fill factors and efficiency, temperature effects, alternative materials and structures. Prerequisite: ECE 302 or E E 340. Credit may be obtained in only one of ECE 475 or E E 475.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=475"
+  },
+  {
+    "title": "ECE476 - Engineering Electromagnetics II",
+    "descr": "Electrostatics and magnetostatics; Maxwell's equations and plane waves. Transmission lines, Smith chart. Waveguides, cavity resonators. Radiation and antennas, dipoles. Prerequisites: ECE 370 or E E 315 or PHYS 381. Credit may be obtained in only one of ECE 476 or E E 476.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=476"
+  },
+  {
+    "title": "ECE478 - Microwave Circuits",
+    "descr": "Introduction to RF/microwave circuits and their applications. Maxwell's Equations and basic wave-propagation concepts. Transmission-line theory and impedance-matching techniques. Practical planar transmission lines. Lumped and distributed microwave-circuit elements. Microwave network analysis using impedance/admittance parameters, scattering parameters, and transmission-matrix methods. Analysis, design, fabrication, and test of practical RF/microwave devices including power dividers/combiners, couplers, amplifiers, and filters. Prerequisites: ECE 370 or E E 315. Credit may be obtained in only one of ECE 478 or E E 478.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=478"
+  },
+  {
+    "title": "ECE485 - Digital Communications",
+    "descr": "Principles of digital communications; signal space concepts, digital modulation and demodulation, intersymbol interference, and pulse shaping. Design of optimal receivers; performance in the presence of channel noise. Introduction to source coding and channel coding. Prerequisites: ECE 342 or E E 387, and ECE 380 or E E 390. Credit may be obtained in only one of ECE 485 or E E 485.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=485"
+  },
+  {
+    "title": "ECE486 - Wireless Communications",
+    "descr": "Characteristics of wireless channels; path loss, shadow fading and multipath propagation. Challenges in wireless system design, digital modulation techniques for wireless communications, transmitter and receiver design for fading channels. Fundamentals of cellular system design and multiple access techniques. Prerequisites: ECE 342 or E E 387, and ECE 380 or E E 390. Credit may be obtained in only one of ECE 486 or E E 486.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=486"
+  },
+  {
+    "title": "ECE487 - Data Communication Networks",
+    "descr": "Network topologies. Layered architectures and the Open Systems Interconnection (OSI) reference model. Peer-to-peer protocols, medium access control protocols, and local area network standards. Packet switched networks and routing, the TCP/IP suite of protocols. Credit may be obtained in only one of ECE 487, CMPUT 313 or CMPE 487.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=487"
+  },
+  {
+    "title": "ECE490 - Electrical Engineering Design Project I",
+    "descr": "The first of two design courses that must be taken in the same academic year. Student teams research, propose, design, develop, document, prototype, and present a practical engineering system or device; teams exercise creativity and make assumptions and decisions based on technical knowledge. This first course includes project definition, planning, and initial prototyping. Formal reports and presentation of the project proposal is required. Prerequisite ECE 312. Credit may be obtained in only one of ECE 490 or E E 400.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=490"
+  },
+  {
+    "title": "ECE491 - Electrical Engineering Design Project II",
+    "descr": "The second of two design courses that must be taken in the same academic year, in which student teams develop an electronic system or device from concept to working prototype. Emphasis is placed on continued execution of the project plan developed in ECE 490. Formal interim and final reports are required; groups demonstrate and present their designs. Prerequisite: ECE 490 or E E 400 in the preceding Fall term. Co-requisite: ECE 303. Credit may be obtained in only one of ECE 491 or E E 401.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=491"
+  },
+  {
+    "title": "ECE492 - Computer Engineering Design Project",
+    "descr": "Design of microprocessor systems, input/output systems, programmable timers, address decoding and interrupt circuitry. This course has a major laboratory component and requires the design and implementation of a microprocessor-based system. Prerequisites: ECE 315 or CMPE 401, and ECE 410 or CMPE 480. Credit may be obtained in only one of CMPE 450, 490, or ECE 492.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=492"
+  },
+  {
+    "title": "ECE493 - Software Systems Design Project",
+    "descr": "Design of software systems from concept to working prototype. Applying software engineering techniques. Working in small groups under constraints commonly experienced in industry. Exposing each team member to the design, implementation, documentation, and testing phases of the project. Managing software development projects. Provides a capstone experience in software development processes. Prerequisite: ECE 421 or CMPE 410. Credit may be obtained in only one of CMPE 440 or ECE 493.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=493"
+  },
+  {
+    "title": "ECE494 - Engineering Physics Design Project I",
+    "descr": "Organization seminars for the research and design project in the following term. Coverage of elements of ethics, equity, concepts of sustainable development and environmental stewardship, public and worker safety and health considerations including the context of the Alberta Occupational and Safety Act. Credit may be obtained in only one of ECE 494 and E E 494.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=494"
+  },
+  {
+    "title": "ECE495 - Engineering Physics Design Project II",
+    "descr": "The second of two design courses that must be taken in the same academic year, in which students implement an engineering system, process or device. Emphasis is placed on continued execution of the project plan developed in ECE 494. Prerequisite: ECE 494 in the preceding Fall Term. Credit may be obtained in only one of ECE 495 or E E 495",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=495"
+  },
+  {
+    "title": "ECE502 - Probability and Random Processes for Electrical Engineers",
+    "descr": "Review of probability theory, random variables, probability distribution and density functions, characteristic functions, convergence of random sequences, and laws of large numbers. Analysis of random processes, including stationarity, ergodicity, autocorrelation functions power spectral density, and transformation of random processes through linear systems. Application to communication systems.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=502"
+  },
+  {
+    "title": "ECE511 - Digital ASIC Design",
+    "descr": "Design of digital application-specific integrated circuits (ASICs) using synthesis CAD tools. Topics include design flow, hierarchical design, hardware description languages such as VHDL, synthesis, design verification, IC test, chip-scale synchronous design, field programmable gate arrays, mask programmable gate arrays, CMOS circuits and IC process technology. For the project, students will design and implement a significant digital system using field programmable gate arrays. Note: Only one of the following courses may be taken for credit: ECE 511 or E E 552.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=511"
+  },
+  {
+    "title": "ECE512 - Digital System Testing and Design for Testability",
+    "descr": "Production testing versus design verification of digital VLSI/ULSI systems. Economics of testing. Defect distributions, yield analysis, and minimum fault coverage requirements. Fault modelling, fault simulation, and automatic test pattern generation. Memory testing. Iddq current-based testing. Design for testability (DFT) rules and strategies. Scan chain based DFT. Built-in self-test (BIST) circuits and architectures. The IEEE JTAG boundary scan and embedded core test standards. Advanced testing topics.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=512"
+  },
+  {
+    "title": "ECE522 - Software Construction, Verification and Evolution",
+    "descr": "Construction of software components identified and described in design documents. Translation of a design into an implementation language. Program coding styles. Concepts, methods, processes, and techniques supporting the ability of a software system to change, evolve, and survive. Verification of software ensuring fulfillment of the requirements. Validation of software products at different stages of development: unit testing, integration testing, system testing, performance testing, and acceptance testing.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=522"
+  },
+  {
+    "title": "ECE530 - Power Quality and Power Disturbance Analysis",
+    "descr": "Introduction to power disturbances and power quality; Generation, characterization, mitigation and analysis of key power disturbances: harmonics, voltage sags and swells, and electromagnetic transients. Disturbance signal processing; Case studies using transients and harmonics programs; Application of power quality standards and practical aspects of power quality assessment; custom power technologies; Power signaling technology, i.e. applications of power disturbances for information transmission and extraction purposes; Generation of disturbances for power line communication and active condition monitoring; Current developments.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=530"
+  },
+  {
+    "title": "ECE531 - Industrial Drive Systems",
+    "descr": "Variable speed control of induction motors; soft-starts. Utility interface of drives; pwm, csi and vvi drive systems; slip-energy recovery drives; medium voltage drives; application issues of industrial drive systems. Prerequisite: E E 332 and E E 431 or equivalent.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=531"
+  },
+  {
+    "title": "ECE540 - Detection and Estimation",
+    "descr": "Bayesian hypothesis testing model, likelihood ratio test (LRT), minimax test, Neyman-Pearson test, receiver operating characteristic (ROC), Bayesian estimation, linear least-squares (LS) estimation; maximum-likelihood (ML) estimation, composite hypothesis testing, introduction to signal detection.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=540"
+  },
+  {
+    "title": "ECE541 - Digital Signal Processing",
+    "descr": "Discrete-time signals and systems, Discrete Fourier Transform, Fast Fourier Transform, Fourier analysis, short-time Fourier transform, wavelet transform. Digital filters, optimal filter design, polyphase filterbanks, subband analysis. Random signal analysis, Karhunen-Loève expansion, power spectrum estimation, autoregressive models.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=541"
+  },
+  {
+    "title": "ECE546 - Semiconductor Fundamentals for Device Applications",
+    "descr": "Review of energy-band theory of crystalline materials and Bloch's theorem. Semiclassical electron dynamics, including electrons, holes, crystal momentum, particle motion, and effective mass. Carrier statistics. Fermi's golden rule and carrier scattering. Relaxation times and carrier mobility. The Boltzmann transport equation, the method of moments, and the drift-diffusion equations. Advanced transport and applications to emerging ECE Calendar changes electronic devices. Prerequisite: An undergraduate course in solid-state devices or physics, or consent of the instructor.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=546"
+  },
+  {
+    "title": "ECE547 - Fundamentals of Solid State Devices",
+    "descr": "Review of semiconductor fundamentals. Analysis of metal-semiconductor (MS), metal-insulator-semiconductor (MIS) and semiconductor heterojunctions including band diagram, depletion approximation, C-V and I-V characteristics. Advanced MOSFETs including short channel effects and scaling theory. Introduction to III-V FETs.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=547"
+  },
+  {
+    "title": "ECE551 - Design of CMOS Analog Integrated Circuits",
+    "descr": "MOS devices and modelling. Processing and layout. CMOS design rules. Basic current mirrors and single-stage amplifiers. High-output impedance current mirrors. MOS differential pair and gain stage. Basic opamp design and compensation. Two-stage CMOS opamp. Feedback and opamp compensation. Advanced current mirrors and opamps. Folded-cascode opamp. Current-mirror opamp. Fully differential opamps. Common-mode feedback circuits. Switched-capacitor circuits. Basic building blocks. Basic operation and analysis. First-order filters. Biquad filters. Continuous-time filters. CMOS transconductors. MOSFET-C filters. Noise analysis. Note: Only one of the following courses may be taken for credit: ECE 551 or E E 633.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=551"
+  },
+  {
+    "title": "ECE553 - Digital Integrated Circuit Design",
+    "descr": "Review of semiconductor materials, integrated circuit processing, and basic design flows using CAD tools. Electrical characteristics of interconnect, passive elements, diodes, MOSFETs and logic gates. Sequential elements, memory and datapath circuits. Pad design. Chip-level design including power and clock distribution. Scaling theory. Testing and design for testability. Emerging technologies. Note: Only one of the following courses may be taken for credit: ECE 553 or E E 483 or 653.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=553"
+  },
+  {
+    "title": "ECE558 - Microfabrication and Nanofabrication Topics I",
+    "descr": "Vacuum principles: gas kinetics and flow, pumping speed theory, pumping methods, pressure, measurement, sorption processes, vacuum system design basics. Thin film growth by sputtering, evaporation and chemical techniques. Characterization and classification of optical, electrical and mechanical properties. Applications of thin films. Note: May not be taken for credit if credit has already been obtained in either E E 641 or 642.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=558"
+  },
+  {
+    "title": "ECE559 - Microfabrication and Nanofabrication Topics II",
+    "descr": "The fabrication process for microelectronics and MEMs applications. Overview of processing steps: silicon wafer material, oxidation, lithography, diffusion, etching and ion implantation, chemical and physical vapor deposition, metallization. Process model. Yield, packaging, and assembly.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=559"
+  },
+  {
+    "title": "ECE560 - Modern Control Theory",
+    "descr": "State space models of linear systems, solutions of linear state equations (time-invariant and time-varying systems). Controllability and observability. State space realizations, multivariable system descriptions, matrix polynomial and factorization. State feedback, eigenvalue assignment. State observers. Observer based state feedback control. Youla parameterization and all stabilizing controllers.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=560"
+  },
+  {
+    "title": "ECE561 - Nonlinear Control Systems",
+    "descr": "Nonlinear system examples. Stability in the sense of Lyapunov. Lyapunov functions. The invariance principle. Lyapunov-based design. Backstepping. Input-output stability. Passivity and small-gain theorems. Input to state stability. Dissipativity. Note: Only one of the following courses may be taken for credit: ECE 561 or E E 666.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=561"
+  },
+  {
+    "title": "ECE571 - Optical and Quantum Electronics",
+    "descr": "Optical resonators. Interaction of radiation and atomic systems. Fabry-Perot lasers, specific laser systems. Modelocked and Q-switched lasers. Second-harmonic generation and parametric oscillation, electro-optic modulation of laser beams. Interaction of light with sound. Semiconductor lasers: theory and applications. Ultrafast lasers and phenomena.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=571"
+  },
+  {
+    "title": "ECE576 - Advanced Engineering Electromagnetics",
+    "descr": "Review of basic electromagnetic concepts, wave equations, propagation and its solutions, reflection, transmission and scattering, waveguides and resonators, electromagnetic theorems and principles, vector potentials, construction of solutions, and radiation, analytical techniques and applications.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=576"
+  },
+  {
+    "title": "ECE577 - Antenna Theory and Design",
+    "descr": "Mechanisms of radiation and propagation, fundamental Antenna parameters, antenna array analysis and synthesis, source modeling, traditional and low-profile resonant antennas, broadband antennas, aperture and horn antennas, antenna-measurement facilities and techniques, special topics addressing recent developments in antenna theory and design. Prerequisites: E E 315 or equivalent, and E E 470 and/or E E 478 or equivalent considered an asset.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=577"
+  },
+  {
+    "title": "ECE578 - Advanced Mircowave and Millimeter-wave Circuits",
+    "descr": "Principles of microwave and millimeter-wave circuit design, various transmission lines and their frequency dependency behavior,  transition between different transmission lines, standard components realization and their analysis and applications, Emerging technologies and state of the art microwave and millimeter-wave circuit realization, System and higher level integration with focus on configurations and technological challenges, measurement techniques and instruments.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=578"
+  },
+  {
+    "title": "ECE582 - Information Theory and Channel Coding",
+    "descr": "Information theory as applied to digital signals. Source coding. The channel coding theorem, linear error control codes, and algebraic error correction coding. Concatenation of codes and iterative decoding.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=582"
+  },
+  {
+    "title": "ECE583 - Digital Communications",
+    "descr": "Analysis and design of digital communication systems based on probability theory and signal space representation. Comparison of different modulation techniques in terms of performance and resource usage. Performance of various detection methods in AWGN and other types of channels.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=583"
+  },
+  {
+    "title": "ECE623 - Data Exploration and Evolutionary Computing",
+    "descr": "Learning, adaptation, self-organization and evolution. Data preprocessing, feature selection and generation. Exploratory data analysis. Optimization methods, genetic algorithms, evolutionary programming, evolution strategies, genetic programming. Alternative paradigms, artificial immune systems, swarm intelligence. Applications.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=623"
+  },
+  {
+    "title": "ECE624 - Fuzzy Sets in Human-Centric Systems",
+    "descr": "Developments in human-centric systems. Fuzzy sets and information granulation. Computing with fuzzy sets: logic operators, mapping, fuzzy relational calculus. Fuzzy models and rule-based models. Fuzzy neural networks. Fuzzy clustering and unsupervised learning.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=624"
+  },
+  {
+    "title": "ECE625 - Data Analysis and Knowledge Discovery",
+    "descr": "Approaches, techniques and tools for data analysis and knowledge discovery. Introduction to machine learning, data mining, and the knowledge discovery process; data storage including database management systems, data warehousing, and OLAP; testing and verification methodologies; data preprocessing including missing data imputation and discretization; supervised learning including decision trees, Bayesian classification and networks, support vector machines, and ensemble methods; unsupervised learning methods including association mining and clustering; information retrieval.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=625"
+  },
+  {
+    "title": "ECE626 - Advanced Neural Networks",
+    "descr": "Introductory and advanced topics in neural networks and connectionist systems. Fast backpropagation techniques including Levenberg-Marquardt and conjugate-gradient algorithms. Regularization theory. Information-theoretic learning, statistical learning, dynamic programming, neurodynamics, complex-valued neural networks.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=626"
+  },
+  {
+    "title": "ECE627 - Intelligent Web",
+    "descr": "Representation, processing, and application of knowledge in emerging concepts of Semantic Web: ontology, ontology construction, and ontology integration; propositional, predicate and description logics; rules and reasoning; Semantic Web services; Folksonomy and Social Web; Semantic Web applications.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=627"
+  },
+  {
+    "title": "ECE633 - Modeling and Simulation of Electromagnetic Transients in Electrical Circuits",
+    "descr": "Analysis of electromagnetic transients in electrical power systems. Computer-aided analysis of electronic circuits. Models of commonly used power system components for time-domain simulation: linear and nonlinear elements, transmission lines, transformers machines, models for the latest power electronic compensators, solution algorithms, analog simulators, real-time digital simulations, architectures and algorithms for parallel and distributed simulators. Transient simulation software.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=633"
+  },
+  {
+    "title": "ECE635 - Power Converters and Renewable Energy Systems",
+    "descr": "This course covers: power converter topologies (including DC-DC converters, DC-AC converters, two level and multilevel converters, voltage source converters, current source converters). PWM methods (including Sine PWM, Space Vector PWM, Hysteresis PWM, Selective Harmonic Elimination PWM, and PWM for multilevel converters) and implementation techniques. Wind power systems, PV systems, fuel cell systems and the power converters used in these systems. Operation/control issues of renewable energy systems.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=635"
+  },
+  {
+    "title": "ECE636 - Dynamics and Controls of Voltage-Source Converters",
+    "descr": "Power circuit topologies and energy conversion principles, Large/small-signal and harmonic models, Current and voltage controls (PI, resonant, predictive, sliding mode, etc.), Energy/power control and management, Grid-synchronization and fault-ride-through techniques, Observer-theory applications, Robust and adaptive control techniques, applications in Distributed Generation (DG), Micro-grids, DSTATCOM, Active Power Filter (APF), HVDC-light, etc.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=636"
+  },
+  {
+    "title": "ECE644 - Digital Image and Video Processing",
+    "descr": "Sampling and Quantization. Digital transforms for multimedia signal processing: DFT, DCT, DST, K-L transform, principal component analysis, subband analysis, wavelet and multi-resolution representation. Image processing: histogram processing, image filtering and enhancement, halftone and dithering for binary image processing, color transforms, color image processing. Video processing: basic video models, spatial-temporal processing of video, morphing and wipe detection, video segmentation and content analysis. Applications: medical imaging, satellite imaging, seismology.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=644"
+  },
+  {
+    "title": "ECE646 - Organic Electronics",
+    "descr": "Chemical structure, nomenclature, crystal structure and electronic structure of organic semiconductors. Charge carriers and charge transport in crystalline organic semiconductors, amorphous small-molecule organic semiconductors and conjugated polymers. Luminescence and energy transfer in organic semiconductors. Device applications including organic field effect transistors, organic light emitting diodes and organic solar cells. Characterization of organic semiconductors and devices.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=646"
+  },
+  {
+    "title": "ECE658 - Microsensors and  Microelectromechanical Systems",
+    "descr": "Overview of Micromachining Technologies, Lumped Modeling and Energy Conserving Transducers, Review of  Elasticity and Micromechanical Structures, Case Study : Piezoelectric Pressure Sensors, Case Study : Capacitive Accelerometers, Overview of Microfluidics, Case Study : PCR-on-a-chip systems.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=658"
+  },
+  {
+    "title": "ECE664 - Nonlinear Control Design with Applications",
+    "descr": "Nonlinear geometric control and observer design methods for multi-input nonlinear systems. Differential geometric tools including manifolds, Lie derivatives, Lie brackets, distributions, and the Frobenius Theorem. Conditions for local and global exact and partial state feedback linearization. Output tracking design using input-output state feedback linearization. Local and global nonlinear observer design using exact error linearization. Output feedback control including output feedback linearization and output feedback stabilization based on normal forms.  Design methods learnt in this course are  implemented on a real physical system.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=664"
+  },
+  {
+    "title": "ECE665 - Multivariable Robust Control",
+    "descr": "MIMO control systems. Standard setup. Mathematical preliminaries (singular value decomposition, norms, and function spaces), Stability and performance analysis of MIMO control systems. Stabilization. Controller parameterization. Uncertain systems and uncertainty representations. Stability and performance analysis of uncertain control systems. Linear matrix inequalities (LMIs) and convex optimization. Modern control design: H-2 and H-infinity optimization via LMIs.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=665"
+  },
+  {
+    "title": "ECE673 - Laser Applications",
+    "descr": "Laser systems, beam optics and laser propagation. Interference and interferometers. Laser matter interactions including laser absorption, energy transport and laser ablation mechanisms. Laser applications in microscale engineering, nanoscale engineering, photonics, science and medical science.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=673"
+  },
+  {
+    "title": "ECE675 - Plasma Engineering",
+    "descr": "Engineering of plasmas for applications in fusion, space, astrophysics, microelectronic processing, plasma-assisted manufacturing and microwave generation. Characterization of the plasma state, charged particle dynamics in electric and magnetic fields, the two-fluid model, magnetohydrodynamic model, linear and nonlinear waves, atomic and collisional processes, transport properties.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=675"
+  },
+  {
+    "title": "ECE684 - Wireless Communication Systems",
+    "descr": "Fundamentals of wireless systems, large and small scale propagation effects in mobile radio channels, cochannel interference, diversity and diversity combining techniques, architecture and capacity of TDMA and CDMA cellular systems. Prerequisites: ECE 583 or consent of instructor and an undergraduate level probability course.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=684"
+  },
+  {
+    "title": "ECE686 - Wireless Communication Networks",
+    "descr": "This course is concerned with the architecture, protocols, modeling, and evaluation of wireless communication networks in transport of multimedia traffic. Specifically, this course studies queuing theory, traffic modeling, radio resource allocation, call admission control, access control, multiple access, and mobility management in existing and emerging advanced wireless networks.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=686"
+  },
+  {
+    "title": "ECE691 - Biomedical Optics",
+    "descr": "This course is intended to provide a firm understanding of the physical and theoretical basis of biomedical optics. Both theoretic aspects of light propagation in tissue as well as practical imaging and sensing systems will be discussed. Single and multiple scattering of light is modeled, and light-transport and diffusion equations are developed. Imaging and sensing platforms including various microscopy technologies, optical-coherence tomography systems, and diffuse-imaging methods are analyzed in detail. Selected topics may include photoacoustic imaging, optical dyes and nanoparticle agents, novel emerging microscopy and deep-tissue imaging technologies, and applications to biological and clinical problems. Prerequisite: consent of Instructor.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=691"
+  },
+  {
+    "title": "ECE692 - Ultrasound Imaging",
+    "descr": "Acoustics and imaging systems; acoustic wave propagation, refraction, reflection, and scattering. Rayleigh equation; transient and steady-state radiation characteristics of simple structures. Modeling, design, and characterization of transmitting and receiving transducers, including micromachined ultrasound transducers. Imaging systems; accounting for the stochastic nature of ultrasound images, image quality metrics. Selected topics may include nonlinear acoustics, Doppler estimation of blood flow, photoacoustic imaging, and medical applications.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=692"
+  },
+  {
+    "title": "ECE710 - Advanced Topics in Computer Engineering",
+    "descr": "There is no description available for this course.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=710"
+  },
+  {
+    "title": "ECE720 - Advanced Topics in Software Engineering and Intelligent Systems",
+    "descr": "There is no description available for this course.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=720"
+  },
+  {
+    "title": "ECE730 - Advanced Topics in Energy Systems",
+    "descr": "There is no description available for this course.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=730"
+  },
+  {
+    "title": "ECE740 - Advanced Topics in Signal and Image Processing",
+    "descr": "There is no description available for this course.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=740"
+  },
+  {
+    "title": "ECE745 - Advanced Topics in Solid State Electronics",
+    "descr": "There is no description available for this course.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=745"
+  },
+  {
+    "title": "ECE750 - Advanced Topics in Integrated Circuits and Systems",
+    "descr": "There is no description available for this course.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=750"
+  },
+  {
+    "title": "ECE760 - Advanced Topics in Control Systems",
+    "descr": "There is no description available for this course.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=760"
+  },
+  {
+    "title": "ECE770 - Advanced Topics in Photonics and Plasmas",
+    "descr": "There is no description available for this course.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=770"
+  },
+  {
+    "title": "ECE780 - Advanced Topics in Communications",
+    "descr": "There is no description available for this course.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=780"
+  },
+  {
+    "title": "ECE900A - Directed Research Project",
+    "descr": "There is no description available for this course.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=900A"
+  },
+  {
+    "title": "ECE900B - Directed Research Project",
+    "descr": "There is no description available for this course.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=900B"
+  },
+  {
+    "title": "ECE910A - Directed Research Project",
+    "descr": "There is no description available for this course.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=910A"
+  },
+  {
+    "title": "ECE910B - Directed Research Project",
+    "descr": "There is no description available for this course.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=910B"
+  },
+  {
+    "title": "ECE312 - Embedded System Design",
+    "descr": "Design methodology. Internal and external peripherals: serial communication, timers, D/A converters, interrupt controllers. Embedded system programming: introduction to real time operating systems, basics of real time programming, real-time debugging. Power and memory management. Fault tolerance. Prerequisites: ECE 220, and ECE 212 or E E 380.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=312"
+  },
+  {
+    "title": "ECE325 - Object-Oriented Software Design",
+    "descr": "Software engineering principles of object-oriented design, decomposition, encapsulation, abstraction, and testing. Introduction to abstract classes and interfaces, exceptions, and threads. Prerequisite CMPUT 274 and CMPUT 275.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=325"
+  },
+  {
+    "title": "ECE322 - Software Testing and Maintenance Engineering",
+    "descr": "From software requirements specification to software testing. Risk analysis and metrics for software testing. Software testing process, including test planning, design, implementation, execution, and evaluation. Test design via white box and black box approaches; coverage-based testing techniques. Unit, integration, and system testing. Acceptance tests. Software maintenance and regression testing. Prerequisite: CMPUT 275. Credit may be obtained in only one of CMPE 320 or ECE 322.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=322"
+  },
+  {
+    "title": "ECE452 - Computation for Nanoengineering",
+    "descr": "Introduction to advanced numerical methods such as finite-difference, finite-element and spectral-domain techniques for solving partial differential equations. Simulations of nanoscale systems involving multiphysics or coupled differential equations involving electron and thermal transport phenomena, electrodynamics, MEMS, and process simulation, graphical methods for 3D visualization of simulation data. Examples from applied areas of nanoengineering to demonstrate computational methods for understanding complex physical phenomena and for designing and simulating nanoscale devices and systems. Prerequisites: ECE 341 or MATH 309 or 311. Credit may be obtained in only one of ECE 452 or E E 445.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=452"
+  },
+  {
+    "title": "ECE201 - Introduction to Electrical and Computer Engineering",
+    "descr": "Topics of interest to second year Electrical and Computer Engineering students, with special reference to industries in Alberta, including coverage of elements of ethics, equity, concepts of sustainable development and environmental stewardship, public and worker safety and health considerations including the context of the Alberta Occupational Health and Safety Act. Offered in a single day near the beginning of the Fall term. Restricted to students registered in the Department of Electrical and Computer Engineering.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=201"
+  },
+  {
+    "title": "ECE209A - Fundamentals of Electrical Engineering",
+    "descr": "Physical concepts of passive circuit elements, Kirchhoff's laws and DC circuit equations. Energy concepts, time domain analysis of AC circuits. Impedance, complex numbers and phasor algebra. AC power concepts, resonance, three phase circuits, introduction to machines. Credit may be obtained in only one of ECE 209, E E 239, ECE 202, or E E 240, unless approved by the Department.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=209A"
+  },
+  {
+    "title": "ECE209B - Fundamentals of Electrical Engineering",
+    "descr": "Physical concepts of passive circuit elements, Kirchhoff's laws and DC circuit equations. Energy concepts, time domain analysis of AC circuits. Impedance, complex numbers and phasor algebra. AC power concepts, resonance, three phase circuits, introduction to machines. Credit may be obtained in only one of ECE 209, E E 239, ECE 202, or E E 240, unless approved by the Department.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=209B"
+  },
+  {
+    "title": "ECE325 - Object-Oriented Software Design",
+    "descr": "Software engineering principles of object-oriented design: basic data structures, classes and objects, creation tactics, inheritance, composition, polymorphism, interfaces, compilation and execution. Programming Objectives. Introduction to advanced data structures, inner classes, and reflection. Exception handling and unit testing. Prerequisite: CMPUT 275.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=325"
+  },
+  {
+    "title": "ECE312 - Embedded System Design",
+    "descr": "Design methodology. Internal and external peripherals: serial communication, timers, D/A converters, interrupt controllers. Embedded system programming: introduction to real time operating systems, basics of real time programming, real-time debugging. Power and memory management. Fault tolerance. Prerequisites: ECE 220, and ECE 212 or E E 380. Corequisite: ECE 340.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=312"
+  },
+  {
+    "title": "ECE321 - Software Requirements Engineering",
+    "descr": "Software quality attributes. Software requirements. Requirements elicitation via interviewing, workshops, prototyping, and use case analysis. Vision document and Software Requirement Specification document standards. Formal software specification methods including operational and descriptive models. Design by contract. Verification and validation of requirements. Prerequisite: CMPUT 275. Credit may be obtained in only one of CMPE 310 or ECE 321.",
+    "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=321"
+  }
+]
