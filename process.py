@@ -64,11 +64,16 @@ def getPrereq(descr):
         return reqArr
 
 def exportJson(courses):
-    jsonDict = {}
+    strArr = []
+    f = open("data.json", "w+")
+    f.write("[")
     for key, courseInstance in courses.items():
-        jsonDict[key] = courseInstance.prereq
-    f = open("crsdat.json", "w+")
-    f.write(json.dumps(jsonDict))
+        prereq = courseInstance.prereq
+        f.write('{"name": "' + key + '", "children": ' + repr(prereq) + "}, \n")
+                
+
+
+
 
 def main():
     with open('data.txt', 'r') as f:
