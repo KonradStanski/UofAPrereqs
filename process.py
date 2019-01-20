@@ -17,7 +17,7 @@ class course:
 
 
 def populateCourses(courseArr):
-    for i in range(90):  #len(courseArr)):
+    for i in range(80):  #len(courseArr)):
         # get crsid
         crsid = courseArr[i]["title"].split("-")
         crsid = crsid[0].strip()
@@ -43,7 +43,7 @@ def populateCourses(courseArr):
 def getPrereq(descr):
     reqArr = []
     if descr.find("Prerequisite") == -1:
-        reqArr.append("No Prereqs")
+        reqArr.append(["No Prereqs"])
         return reqArr
     else:
         reqLine = descr.split("Prerequisite")[1]
@@ -63,6 +63,12 @@ def getPrereq(descr):
         #reqArr.append(reqLine)
         return reqArr
 
+def exportJson(courses):
+    jsonDict = {}
+    for key, courseInstance in courses.items():
+        jsonDict[key] = courseInstance.prereq
+    f = open("crsdat.json", "w+")
+    f.write(json.dumps(jsonDict))
 
 def main():
     with open('data.txt', 'r') as f:
@@ -70,14 +76,17 @@ def main():
 
     populateCourses(courseArr)
 
-    for key, courseInstance in courses.items():
-        print(key)
-        print(courseInstance.dept)
-        print(courseInstance.num)
-        print(courseInstance.descr)
-        print(courseInstance.link)
-        print(courseInstance.prereq)
-        print(" ")
+    exportJson(courses)
+
+
+    # for key, courseInstance in courses.items():
+    #     print(key)
+    #     #print(courseInstance.dept)
+    #     #print(courseInstance.num)
+    #     #print(courseInstance.descr)
+    #     #print(courseInstance.link)
+    #     print(courseInstance.prereq)
+    #     print(" ")
 
 
 

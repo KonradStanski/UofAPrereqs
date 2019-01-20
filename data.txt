@@ -146,7 +146,7 @@
   },
   {
     "title": "ECE370 - Engineering Electromagnetics I",
-    "descr": "Review of vector calculus, electrostatics, and magnetostatics. Electric and magnetic fields in material media, including polarization mechanisms and general boundary conditions. Solutions to static field problems. Maxwell's equations and waves in freespace, dielectrics and conducting media. Reflection and refraction, standing waves. Prerequisites: MATH102, MATH209 and PHYS230. Credit may be obtained in only one of ECE370 or EE315.",
+    "descr": "Review of vector calculus, electrostatics, and magnetostatics. Electric and magnetic fields in material media, including polarization mechanisms and general boundary conditions. Solutions to static field problems. Maxwell's equations and waves in freespace, dielectrics and conducting media. Reflection and refraction, standing waves. Prerequisites: MATH102, MATH209, PHYS230. Credit may be obtained in only one of ECE370 or EE315.",
     "link": "https://catalogue.ualberta.ca/Course/Details?subjectCode=ECE&catalog=370"
   },
   {
