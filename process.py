@@ -63,26 +63,64 @@ def getPrereq(descr):
         #reqArr.append(reqLine)
         return reqArr
 
-def exportJson(courses):
-    strArr = []
-    f = open("data.json", "w+")
-    f.write("[")
-    for key, courseInstance in courses.items():
-        prereq = courseInstance.prereq
-        f.write('{"name": "' + key + '", "children": ' + repr(prereq) + "}, \n")
-                
+# def exportJson(courses):
+#     strArr = []
+#     f = open("data.json", "w+")
+#     f.write("[")
+#     for key, courseInstance in courses.items():
+#         prereq = courseInstance.prereq
+#         f.write('{"name": "' + key + '", "children": ' + repr(prereq) + "}, \n")
 
+treeDict = {}
+def makeTreeDict():
+    for key, courseInstance in courses.items():
+            reqArr = []
+            prereq = courseInstance.prereq
+            for i in prereq:
+                for j in i:
+                    reqArr.append(j)
+            treeDict[key] = reqArr
+
+
+
+def makeTree(search):
+    # check if key in dict
+    # if in dict, call makeTree on all courses in reqArr and concatenate function calls and return them
+    if search in treeDict:
+        reqArr = treeDict[search]
+        textArray = []
+        for req in reqArr:
+            return makeTree(req)
+            #print(result)
+
+            #textArray.append[result]
+
+
+    # if not, return base string
+    else:
+        return '{"name": ' + search + ', "children":'
+
+
+    # open file to write to
+    #f = open("data.json", "w+")
+    #     f.write('{"name": "' + key + '", "children": ' + repr(prereq) + "}, \n")
 
 
 
 def main():
-    with open('data.txt', 'r') as f:
+    with open('data_old.txt', 'r') as f:
         courseArr = json.load(f)
 
     populateCourses(courseArr)
 
-    exportJson(courses)
+    makeTreeDict()
+    print(makeTree("ECE212"))
 
+    # for key, courseInstance in treeDict.items():
+    #     print(key)
+    #     print(courseInstance)
+
+    #exportJson(courses)
 
     # for key, courseInstance in courses.items():
     #     print(key)
