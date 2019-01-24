@@ -63,13 +63,6 @@ def getPrereq(descr):
         #reqArr.append(reqLine)
         return reqArr
 
-# def exportJson(courses):
-#     strArr = []
-#     f = open("data.json", "w+")
-#     f.write("[")
-#     for key, courseInstance in courses.items():
-#         prereq = courseInstance.prereq
-#         f.write('{"name": "' + key + '", "children": ' + repr(prereq) + "}, \n")
 
 treeDict = {}
 def makeTreeDict():
@@ -82,33 +75,70 @@ def makeTreeDict():
             treeDict[key] = reqArr
 
 
-
-def makeTree(search):
-    # check if key in dict
-    # if in dict, call makeTree on all courses in reqArr and concatenate function calls and return them
+# This function takes the treeDict{} dictionary and makes a parralel tree array for porting to javascript and display in D3
+def makeTree(search, last):
     if search in treeDict:
+        searchType = "lst"
         reqArr = treeDict[search]
-        #print(reqArr)
-        textArray = []
-        textArray.append('{"name": "' + search + '", "children": [')
-        for i in range(len(reqArr)):
-            text = makeTree(reqArr[i])
-            textArray.append(text)
-            if i == len(reqArr)-1:
-                textArray.append("}]},")
-            else:
-                textArray.append("},")
-        return "".join(textArray)
-
-    # if not, return base string
     else:
-        return '{"name": "' + search + '"'
+        searchType = "end"
+
+    textArray = []
+
+    #case 1
+    if (searchType == "lst") and not last:
+        print()
+        textArray.append('{"name": "' + search + '", "children":[')
+        for i in range(len(reqArr)):
+            if i != len(reqArr):
+                text = makeTree(reqArr[i], False)
+                textArray.append(text)
+            else:
+                text = makeTree(reqArr[i], True)
+                textArray.append(text)
+        textArray.append(']},')
+
+    #case 2
+    if (searchType == "lst") and last:
+        textArray.append('{"name": "' + search + '", "children":[')
+        for i in range(len(reqArr)):
+            if i != len(reqArr):
+                text = makeTree(reqArr[i], False)
+                textArray.append(text)
+            else:
+                text = makeTree(reqArr[i], True)
+                textArray.append(text)
+        textArray.append(']}')
+
+    #case 3
+    if (searchType == "end") and not last:
+        textArray.append('{"name": "' + search + '"},')
+
+    #case 4
+    if (searchType == "end") and last:
+        textArray.append('{"name": "' + search + '"}')
+
+    #concatenate the array to form a json string
+    return "".join(textArray)
 
 
-    # open file to write to
-    #f = open("data.json", "w+")
-    #     f.write('{"name": "' + key + '", "children": ' + repr(prereq) + "}, \n")
 
+
+
+
+def makeJson():
+    outArr = []
+    f = open("data.json", "w+")
+    for key, courseInstance in treeDict.items():
+        
+        print(key)
+        outstr = makeTree(key, False)
+        outstr = "[" + outstr + "],"
+        outstr = outstr.replace("},]","}]")
+        outArr.append(outstr)
+    print("".join(outArr)) 
+    f.write("".join(outArr))
+        
 
 
 def main():
@@ -118,23 +148,7 @@ def main():
     populateCourses(courseArr)
 
     makeTreeDict()
-    print(makeTree("ECE360"))
-
-    # for key, courseInstance in treeDict.items():
-    #     print(key)
-    #     print(courseInstance)
-
-    #exportJson(courses)
-
-    # for key, courseInstance in courses.items():
-    #     print(key)
-    #     #print(courseInstance.dept)
-    #     #print(courseInstance.num)
-    #     #print(courseInstance.descr)
-    #     #print(courseInstance.link)
-    #     print(courseInstance.prereq)
-    #     print(" ")
-
+    makeJson()
 
 
 if __name__ == "__main__":
